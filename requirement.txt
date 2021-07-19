@@ -1,4 +1,0 @@
-python=3.6
-django
-conda install -c bioconda mysqlclient
-mysql workbench
